@@ -29,8 +29,6 @@ I am an **Information Systems Student** at UTFPR and a **Development Assistant**
 
 ---
 
----
-
 ### 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/gustavo-moretto-dias/" target="_blank">
