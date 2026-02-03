@@ -31,10 +31,9 @@ I am an **Information Systems Student** at UTFPR and a **Development Assistant**
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusmoretto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmoretto&layout=compact&theme=dracula"/>
-</div>
+![Estatísticas do Gustavo](https://github-readme-stats.vercel.app/api?username=gusmoretto&show_icons=true&theme=dracula)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gusmoretto&layout=compact&theme=dracula)
 
 ---
 
