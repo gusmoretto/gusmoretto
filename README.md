@@ -29,12 +29,6 @@ I am an **Information Systems Student** at UTFPR and a **Development Assistant**
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusmoretto&show_icons=true&theme=dracula"/>
-</div>
-
 ---
 
 ### 📫 Connect with me
