@@ -1,39 +1,83 @@
-### Hi there 👋, I'm Gustavo Moretto Dias
+<p align="center">
+  <img src="./assets/terminal-header.svg" width="100%" alt="Linux terminal: whoami — Gustavo Moretto Dias, Software Engineering Intern at Driva. Software development, Linux, and automation." />
+</p>
 
-I am an **Information Systems Student** at UTFPR and a **Development Assistant** at EOX Tecnologia. Passionate about Full Stack development, Linux environments, and Cybersecurity.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-moretto-dias/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="mailto:gmorettodias@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=A3E635" alt="Email Gustavo" /></a>
+</p>
 
-- 🔭 I’m currently working on **CRM maintenance and internal systems using PHP & JS**.
-- 🎓 I’m currently studying **Information Systems** at **UTFPR**.
-- 🛡️ Member of **VESPAS**, an academic extension project focused on **Cybersecurity**.
-- 💼 Experience with **Scrum**, **GitLab**, and **Linux** environments.
+## `$ cat about.md`
+
+I'm **Gustavo Moretto Dias**, a **Software Engineering Intern at Driva** and an **Information Systems student at UTFPR**.
+
+My background includes **CRM maintenance, internal systems, web development, API integration, relational databases, and automation**. I've worked with PHP and JavaScript, and expanded my experience through projects involving Node.js, Linux, Docker, and data workflows.
+
+I'm also a member of **VESPAS**, an academic extension project focused on **cybersecurity**. I enjoy understanding how systems connect, solving practical problems, and learning how software behaves beyond the code.
+
+## `$ tree ~/journey`
+
+```text
+~/journey
+├── work/
+│   └── Software Engineering Intern @ Driva
+├── experience/
+│   ├── CRM & internal systems
+│   ├── Web applications & API integrations
+│   ├── Relational databases & data workflows
+│   └── Linux, containers & workflow automation
+├── education/
+│   └── Information Systems @ UTFPR
+└── community/
+    └── VESPAS / Cybersecurity
+```
+
+## `$ cat stack.yml`
+
+```yaml
+development:
+  web: [PHP, JavaScript, Node.js, Express, HTML, CSS]
+  academic: [C, C++]
+
+data:
+  databases: [MySQL, PostgreSQL]
+  workflows: [n8n, API integration]
+
+systems:
+  environments: [Linux, Docker, Docker Compose]
+
+collaboration:
+  tools: [Git, GitLab, Jira]
+  practices: [Scrum]
+```
+
+## `$ tail -n 3 learning.log`
+
+```text
+[learning]  Deepening my understanding of Linux environments.
+[building]  Practicing containers and workflow automation.
+[exploring] DevOps and how software is deployed and maintained.
+```
+
+<details>
+  <summary><code>$ man gusmoretto</code></summary>
+
+### NAME
+
+Gustavo Moretto Dias — software developer, Information Systems student, and Linux enthusiast.
+
+### INTERESTS
+
+Software development, automation, reliable environments, and cybersecurity.
+
+### CONTACT
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-moretto-dias/) · [Email](mailto:gmorettodias@gmail.com)
+
+</details>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & DevOps**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-### 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/gustavo-moretto-dias/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gmorettodias@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+```console
+gusmoretto@github:~$ _
+```
